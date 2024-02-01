@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **terresaalicia@protonmail.com**
 
-- ⚡ Fun fact **Don't forget to smile! :)**
+- ⚡ **Don't forget to smile! :)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
