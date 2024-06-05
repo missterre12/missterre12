@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **C#, .NET, Java, Springboot.**
 
-- 👨‍💻 All of my projects are available at [missalicia.my.id](missalicia.my.id)
+- 👨‍💻 All of my projects are available at /*[missalicia.my.id](missalicia.my.id)*/
 
 - 📝 I regularly write articles on [https://medium.com/@terresaalicia12](https://medium.com/@terresaalicia12)
 
