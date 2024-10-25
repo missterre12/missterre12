@@ -12,7 +12,7 @@
 
 - 📝 I regularly write articles on [https://medium.com/@terresaalicia12](https://medium.com/@terresaalicia12)
 
-- 📫 How to reach me **terresaalicia@protonmail.com**
+- 📫 How to reach me **terresasbusiness@gmail.com**
 
 - ⚡ **Don't forget to smile! :)**
 
