@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working as a **Freelancer**
 
-- 🌱 I’m currently learning **C#, .NET, Java, Springboot.**
+- 🌱 I’m currently learning **Typescript, Laravel, Kotlin (Android Studio)**
 
 - 👨‍💻 All of my projects are available at GitHub.
 
