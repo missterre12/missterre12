@@ -10,9 +10,9 @@
 
 - 👨‍💻 All of my projects are available at GitHub.
 
-- 📝 I regularly write articles on [https://medium.com/@terresaalicia12](https://medium.com/@terresaalicia12)
+- 📝 I regularly write articles on [Medium](https://medium.com/@terresaalicia12)
 
-- 📫 How to reach me **terresaalicia.my.id**
+- 📫 How to reach me? You can visit my [Personal Website](https://terresaalicia.my.id)
 
 - ⚡ **Don't forget to smile! :)**
 
