@@ -1,18 +1,18 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&color=929292&size=50&center=true&vCenter=true&width=1000&height=150&lines=Welcome+to+my+GitHub+Profile!)](https://github.com/missterre12)
 <h1 align="center">Hi 👋, I'm Terresa Alicia </h1>
 
-<h3 align="center">Backend Developer from Indonesia <img src="https://views.whatilearened.today/views/github/missterre12/missterre12.svg" align="center" /></h3>  
+<h3 align="center">Software Engineer from Indonesia <img src="https://views.whatilearened.today/views/github/missterre12/missterre12.svg" align="center" /></h3>  
 <image align="right" alt="backend-coding" width="400" src="https://res.cloudinary.com/practicaldev/image/fetch/s--O0u1bNHs--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://miro.medium.com/max/1400/0%2APXf5ge7QCN9Ga_CL.gif">
 
 - 🔭 I’m currently working as a **Freelancer**
 
-- 🌱 I’m currently learning **Typescript, Laravel, Kotlin (Android Studio)**
+- 🌱 I’m currently learning **Typescript, React, Laravel, Kotlin (Android Studio)**
 
 - 👨‍💻 All of my projects are available at GitHub.
 
 - 📝 I regularly write articles on [Medium](https://medium.com/@terresaalicia12)
 
-- 📫 How to reach me? You can visit my [Personal Website](https://terresaalicia.my.id)
+- 📫 How to reach me? You can visit my [Personal Website](https://terresaalicia.vercel.app)
 
 - ⚡ **Don't forget to smile! :)**
 
