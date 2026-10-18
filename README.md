@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working as a **Freelancer**
 
-- 🌱 I’m currently learning **Typescript, React, Laravel, Kotlin (Android Studio)**
+- 🌱 I’m currently learning **English, Korean, and Chinese**
 
 - 👨‍💻 All of my projects are available at GitHub.
 
